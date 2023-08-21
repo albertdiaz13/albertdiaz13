@@ -20,7 +20,7 @@
 
 ---
 
-   Check out my progress on HackTheBox
+   My progress on HackTheBox
 
 ![HTB](https://www.hackthebox.com/badge/image/1439268)
 
