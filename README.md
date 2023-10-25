@@ -1,7 +1,6 @@
 ### Hi there, I'm Albert! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="35" height="35" /> Actively working on certification exams: PCEP Entry-Level Python Programmer and Security+   
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="30" height="30" /> &nbsp; I’m currently learning Cybersecurity at University of Central Florida   
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="30" height="30" /> &nbsp; Actively working on certification exams: PCEP Entry-Level Python Programmer and Security+   
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chequered%20Flag.png" alt="Chequered Flag" width="30" height="30" /> &nbsp; I’m looking to collaborate on open source development projects  
 
 ---
