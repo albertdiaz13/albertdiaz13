@@ -7,7 +7,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="35" height="35" /> Contact me:
 
-<a href="https://www.linkedin.com/in/albertdiaz13/" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:albertdiazblanco@gmail.com) <img src="https://img.shields.io/badge/Discord:%20alb.ert-blue?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord: alb.ert" /> 
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:albertdiazblanco@gmail.com) <img src="https://img.shields.io/badge/Discord:%20alb.ert-blue?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord: alb.ert" /> 
 
 ---
 
